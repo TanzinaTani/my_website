@@ -19,6 +19,7 @@ body
 #background{
   background-image: url(bg.jpg);  
   background-size: 100% 100%;
+  margin-left: 90px;
   background-repeat: no-repeat;
 }
 
