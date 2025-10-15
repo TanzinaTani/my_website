@@ -19,7 +19,7 @@ body
 #background{
   background-image: url(bg.jpg);  
   background-size: 100% 100%;
-  margin-left: 90px;
+  /* margin-left: 90px; */
   background-repeat: no-repeat;
 }
 
@@ -275,3 +275,4 @@ ul#menu li a:hover
   border-bottom: 1px solid #FFF;
   margin: 0 0 20px 0;}
    */
+
